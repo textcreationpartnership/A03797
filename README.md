@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-CERTAINE GREEVANCES, VVELL VVORTHY THE SERIOVS CONSIDERATION OF THE RIGHT HONORABLE AND HIGH COVRT O
+
 #####Body#####
 
 1. A DIALOGVE OR CONFERENCE, BETWEENE A COVNTREY Gentleman, and a Minister of Gods word, about the Booke of Common Prayer.
